@@ -27,26 +27,11 @@
     
 
 ## Dependencies
-* keras ```bash pip install keras```
+* keras ```pip install keras```
 * numpy
 * shutil
-* tensorflow ```bash pip install tensorflow```
+* tensorflow ```pip install tensorflow```
 * matplotlib.pyplot
 * os
 ## Training and Validation (Accuracy/Loss Graph)
-![Accuracy](DataScience/Assignments/Assignment-01 Coil Dataset/tv.JPG)
-
-## 
-* Import Libraries
-* Rotation
-* Width and Height Shifts
-* Brightness
-* Shear Transformation
-* Zoom
-* Channel Shifts
-* Flips
-* Normalization
-  * Featurewise
-  * Samplewise
-* Rescale and Preprocessing Function
-* Using in Model Training
+![Accuracy](https://github.com/khairmuhammad/DataScience/edit/master/Assignments/Assignment-01/tv.JPG)

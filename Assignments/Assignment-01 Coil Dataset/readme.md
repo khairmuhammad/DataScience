@@ -4,14 +4,24 @@
 
     ├── coil-20-unproc         (Unprocessed Data)
     ├── coil20-proc            (Processed Data)
-    | ├── train
+    | ├── train                 (Data for training the model)
     |   |   ├──Object1
     |   |   ├──Object2
     |   |   ├──Object3
     |   |   ├──Object4
     |   |   ├──Object5
     | ├── test
+    |       ├──Object1
+    |       ├──Object2
+    |       ├──Object3
+    |       ├──Object4
+    |       ├──Object5
     | ├── valid
+    |   |   ├──Object1
+    |   |   ├──Object2
+    |   |   ├──Object3
+    |   |   ├──Object4
+    |   |   ├──Object5
     ├── src          
     ├── test         
     ├── tools        

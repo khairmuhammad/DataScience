@@ -5,6 +5,11 @@
     ├── coil-20-unproc         (Unprocessed Data)
     ├── coil20-proc            (Processed Data)
     | ├── train
+    |   |   ├──Object1
+    |   |   ├──Object2
+    |   |   ├──Object3
+    |   |   ├──Object4
+    |   |   ├──Object5
     | ├── test
     | ├── valid
     ├── src          

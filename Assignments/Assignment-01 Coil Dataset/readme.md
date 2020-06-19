@@ -25,7 +25,7 @@
     ├── objects.h5              (Trained model)                   
     └── README.md
 ## Training and Validation (Accuracy/Loss Graph)
-![Accuracy & Loss Graph](tv.jpg)
+![Accuracy & Loss Graph](/tv.JPG)
 
 ## 
 * Import Libraries

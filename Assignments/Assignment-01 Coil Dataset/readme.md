@@ -27,14 +27,10 @@
     
 
 ## Dependencies
-* keras ```bash
-pip install keras
-```
+* keras ```bash pip install keras```
 * numpy
 * shutil
-* tensorflow ```bash
-pip install tensorflow
-```
+* tensorflow ```bash pip install tensorflow```
 * matplotlib.pyplot
 * os
 ## Training and Validation (Accuracy/Loss Graph)

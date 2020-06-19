@@ -34,4 +34,4 @@
 * matplotlib.pyplot
 * os
 ## Training and Validation (Accuracy/Loss Graph)
-![Accuracy](https://github.com/khairmuhammad/DataScience/edit/master/Assignments/Assignment-01/tv.JPG)
+![Accuracy](https://github.com/khairmuhammad/DataScience/blob/master/Assignments/Assignment-01%20Coil%20Dataset/tv.JPG)

@@ -28,9 +28,9 @@
 
 ## Dependencies
 * keras ```pip install keras```
+* tensorflow ```pip install tensorflow```
 * numpy
 * shutil
-* tensorflow ```pip install tensorflow```
 * matplotlib.pyplot
 * os
 ## Training and Validation (Accuracy/Loss Graph)

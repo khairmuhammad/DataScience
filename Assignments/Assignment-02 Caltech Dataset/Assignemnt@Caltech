@@ -1,0 +1,4 @@
+-Dataset load(done)
+-Graph of original dataset (gather all data in one folder)(done)
+-count classes which contains less than 100 images(done)
+-Augment the till one thousand images for each class

@@ -24,8 +24,8 @@
     |       ├──Object5
     ├── objects.h5              (Trained model)                   
     └── README.md
-
-![Horizontal Flip](assets/horizontal_flip.jpg)
+## Training and Validation (Accuracy/Loss Graph)
+![Accuracy & Loss Graph](assets/tv.jpg)
 
 ## 
 * Import Libraries

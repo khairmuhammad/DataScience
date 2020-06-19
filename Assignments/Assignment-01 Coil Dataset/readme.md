@@ -25,7 +25,7 @@
     ├── objects.h5              (Trained model)                   
     └── README.md
 ## Training and Validation (Accuracy/Loss Graph)
-![Accuracy & Loss Graph](DataScience/Assignments/Assignment-01 Coil Dataset/tv.JPG)
+![Accuracy](DataScience/Assignments/Assignment-01 Coil Dataset/tv.JPG)
 
 ## 
 * Import Libraries

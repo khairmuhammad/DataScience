@@ -42,10 +42,10 @@ This dataset contains 101 classes of different animals. It is unprocessed.
 * os
 
 ## Raw Data Graph
-![Accuracy](https://github.com/khairmuhammad/DataScience/blob/master/Assignments/Assignment-02%20Caltech%20Dataset/tv1.JPG)
+![Accuracy](https://github.com/khairmuhammad/DataScience/blob/master/Assignments/Assignment-02%20Caltech%20Dataset/rawData.JPG)
 
 ## After Augmentation Data Graph
-![Accuracy](https://github.com/khairmuhammad/DataScience/blob/master/Assignments/Assignment-02%20Caltech%20Dataset/tv1.JPG)
+![Accuracy](https://github.com/khairmuhammad/DataScience/blob/master/Assignments/Assignment-02%20Caltech%20Dataset/augmented_Data.JPG)
 
 ## Training and Validation (Accuracy/Loss Graph)
 ![Accuracy](https://github.com/khairmuhammad/DataScience/blob/master/Assignments/Assignment-02%20Caltech%20Dataset/tv1.JPG)

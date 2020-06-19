@@ -24,6 +24,19 @@
     |       ├──Object5
     ├── objects.h5              (Trained model)                   
     └── README.md
+    
+
+## Dependencies
+* keras ```bash
+pip install keras
+```
+* numpy
+* shutil
+* tensorflow ```bash
+pip install tensorflow
+```
+* matplotlib.pyplot
+* os
 ## Training and Validation (Accuracy/Loss Graph)
 ![Accuracy](DataScience/Assignments/Assignment-01 Coil Dataset/tv.JPG)
 

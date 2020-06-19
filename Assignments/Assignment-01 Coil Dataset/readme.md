@@ -4,28 +4,25 @@
 
     ├── coil-20-unproc         (Unprocessed Data)
     ├── coil20-proc            (Processed Data)
-    | ├── train                 (Data for training the model)
-    |   |   ├──Object1
-    |   |   ├──Object2
-    |   |   ├──Object3
-    |   |   ├──Object4
-    |   |   ├──Object5
-    | ├── test
+    | ├── train                (Data for training the model)
     |       ├──Object1
     |       ├──Object2
     |       ├──Object3
     |       ├──Object4
     |       ├──Object5
-    | ├── valid
-    |   |   ├──Object1
-    |   |   ├──Object2
-    |   |   ├──Object3
-    |   |   ├──Object4
-    |   |   ├──Object5
-    ├── src          
-    ├── test         
-    ├── tools        
-    ├── LICENSE
+    | ├── test                 (Data for testing the model)  
+    |       ├──Object1
+    |       ├──Object2
+    |       ├──Object3
+    |       ├──Object4
+    |       ├──Object5
+    | ├── valid                 (Data for validating the model)
+    |       ├──Object1
+    |       ├──Object2
+    |       ├──Object3
+    |       ├──Object4
+    |       ├──Object5
+    ├── objects.h5              (Trained model)                   
     └── README.md
 
 ![Horizontal Flip](assets/horizontal_flip.jpg)
